@@ -37,10 +37,10 @@ Scores by school size
 Scores by school type
 * Scores by school type data do not change; it remains the same.
 
-initial analysis
+   initial analysis
 <img width="735" alt="Screen Shot 2022-03-25 at 9 45 23 PM" src="https://user-images.githubusercontent.com/100738688/160219967-bbb1087c-e28c-4d93-aa8a-3aa084fe3f52.png">
 
-updated analysis
+   updated analysis
 <img width="735" alt="Screen Shot 2022-03-25 at 9 43 05 PM" src="https://user-images.githubusercontent.com/100738688/160220003-c494e1b3-f170-4bea-88fe-8adebb5eb0a7.png">
 
 
