@@ -56,7 +56,9 @@ Scores by school size
 Scores by school type
 * Scores by school type data do not change; it remains the same.
 
-  
+    initial analysis
+  <img width="735" alt="Screen Shot 2022-03-25 at 9 45 23 PM" src="https://user-images.githubusercontent.com/100738688/160220854-54a7b18b-0b91-42a2-94bf-825f812c09a4.png">
+
 
    updated analysis
    
