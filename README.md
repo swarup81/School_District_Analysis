@@ -17,13 +17,13 @@ How does replacing the ninth graders' math and reading scores affect Thomas High
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 * After replacing 9th graders' scores, the data has been excluded from that column for that specific school and grade, and the data becomes NaN or null.
-* 
+
 Scores by school spending
 * School spending does not change as we have nullified 9th graders from the statistics.
-* 
+
 Scores by school size
 * The data has not altered; it remains the same.
-* 
+
 Scores by school type
 * Scores by school type data do not change; it remains the same.
 
