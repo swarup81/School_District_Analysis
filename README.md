@@ -31,6 +31,11 @@ How does replacing the ninth graders' math and reading scores affect Thomas High
 * By replacing  9th-graders math and reading scores, Thomas high school performance ranking dropped from the 2nd highest overall passing percentage, 90.94%, to the 8th lowest overall passing percentage, 65.07%.
 
 
+updated analysis
+<img width="1257" alt="Screen Shot 2022-03-25 at 10 32 13 PM" src="https://user-images.githubusercontent.com/100738688/160221499-281fcd4a-a28c-4994-8948-018221121a6f.png">
+
+
+
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
