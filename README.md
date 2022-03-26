@@ -21,7 +21,8 @@ How is the school summary affected?
  
      initial analysis
 
-<img width="1294" alt="Screen Shot 2022-03-25 at 2 05 28 PM" src="https://user-images.githubusercontent.com/100738688/160220188-5209a2e7-81b9-4c96-be8a-d3fd7c43cd3b.png">
+<img width="1297" alt="Screen Shot 2022-03-25 at 1 57 54 PM" src="https://user-images.githubusercontent.com/100738688/160221728-03e8f3f2-0f99-463f-8644-56bca2441b63.png">
+
 
    updated analysis
 
