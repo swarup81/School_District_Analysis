@@ -58,7 +58,8 @@ Scores by school type
 * Scores by school type data do not change; it remains the same.
 
    initial analysis
-<img width="735" alt="Screen Shot 2022-03-25 at 9 45 23 PM" src="https://user-images.githubusercontent.com/100738688/160219967-bbb1087c-e28c-4d93-aa8a-3aa084fe3f52.png">
+<img width="796" alt="Screen Shot 2022-03-25 at 10 09 45 PM" src="https://user-images.githubusercontent.com/100738688/160220702-2eff7fdf-49e6-47f2-a8af-e9dfb46fd75d.png">
+
 
    updated analysis
    
