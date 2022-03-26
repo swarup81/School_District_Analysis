@@ -48,6 +48,9 @@ Scores by school spending
 Scores by school size
 * The data has not altered; it remains the same.
 
+   initial analysis
+<img width="796" alt="Screen Shot 2022-03-25 at 10 09 45 PM" src="https://user-images.githubusercontent.com/100738688/160220931-0fc304b2-592a-44ba-ac6c-9d67c64782c8.png">
+
   
    updated analysis
 <img width="797" alt="Screen Shot 2022-03-25 at 9 44 50 PM" src="https://user-images.githubusercontent.com/100738688/160220618-5325dcf1-af47-4f58-aa1e-4517dc36c67b.png">
