@@ -25,7 +25,8 @@ How is the school summary affected?
 
    updated analysis
 
-<img width="860" alt="Screen Shot 2022-03-25 at 9 41 48 PM" src="https://user-images.githubusercontent.com/100738688/160220485-82d5cf3c-4c70-40f7-99a9-326784101cbd.png">
+<img width="1294" alt="Screen Shot 2022-03-25 at 2 05 28 PM" src="https://user-images.githubusercontent.com/100738688/160221694-82755acf-7f28-4bc2-953b-208783597355.png">
+
 
 
 How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
