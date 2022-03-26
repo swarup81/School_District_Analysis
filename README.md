@@ -43,6 +43,13 @@ Math and reading scores by grade
 Scores by school spending
 * School spending does not change as we have nullified 9th graders from the statistics.
 
+initial analysis
+<img width="860" alt="Screen Shot 2022-03-25 at 9 41 48 PM" src="https://user-images.githubusercontent.com/100738688/160220360-78c1610c-ef2e-4704-b9e1-c1b3e8029b69.png">
+
+updated analysis
+<img width="850" alt="Screen Shot 2022-03-25 at 9 44 13 PM" src="https://user-images.githubusercontent.com/100738688/160220375-3cfdb74d-27bf-4aa1-8bf3-bfae5f803ff1.png">
+
+
 Scores by school size
 * The data has not altered; it remains the same.
 
