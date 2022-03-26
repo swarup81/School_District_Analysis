@@ -16,11 +16,15 @@ updated analysis
 
          
 How is the school summary affected?
-* Initial analysis shows that the updated school summary analysis showed that Thomas high school students' math and reading passing percentages were 93.27% and 97.30%, which dropped to 66.91% and 69.66%, respectively.There was a slight difference in the average math and reading scores.  
- initial analysis
-<img width="1297" alt="Screen Shot 2022-03-25 at 1 57 54 PM" src="https://user-images.githubusercontent.com/100738688/160220168-0a69a4c6-f701-4a67-9e0a-b3820d0ecf68.png">
- updated analysis
+* Initial analysis shows that the updated school summary analysis showed that Thomas high school students' math and reading passing percentages were 93.27% and 97.30%, which dropped to 66.91% and 69.66%, respectively.There was a slight difference in the average math and reading scores. 
+ 
+     initial analysis
+
 <img width="1294" alt="Screen Shot 2022-03-25 at 2 05 28 PM" src="https://user-images.githubusercontent.com/100738688/160220188-5209a2e7-81b9-4c96-be8a-d3fd7c43cd3b.png">
+
+   updated analysis
+
+<img width="860" alt="Screen Shot 2022-03-25 at 9 41 48 PM" src="https://user-images.githubusercontent.com/100738688/160220485-82d5cf3c-4c70-40f7-99a9-326784101cbd.png">
 
 
 How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
