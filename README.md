@@ -12,7 +12,8 @@ How is the district summary affected?
 <img width="761" alt="Screen Shot 2022-03-25 at 1 35 09 PM" src="https://user-images.githubusercontent.com/100738688/160219156-8a93e866-93ea-41ce-a704-6bf73e6b2b0b.png">
 
 updated analysis
-<img width="1132" alt="Screen Shot 2022-03-25 at 1 27 10 PM" src="https://user-images.githubusercontent.com/100738688/160219175-0f57bb11-03ea-458e-98e6-92f8010c57bf.png">
+<img width="1132" alt="Screen Shot 2022-03-25 at 1 27 10 PM" src="https://user-images.githubusercontent.com/100738688/160221643-9f3c93d0-b380-49ad-bf9f-323a692df417.png">
+
 
          
 How is the school summary affected?
