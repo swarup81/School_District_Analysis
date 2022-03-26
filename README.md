@@ -32,6 +32,9 @@ How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 * After replacing 9th graders' scores, the data has been excluded from that column for that specific school and grade, and the data becomes NaN or null.
 
+<img width="498" alt="Screen Shot 2022-03-25 at 3 42 10 PM" src="https://user-images.githubusercontent.com/100738688/160219496-33c5cf44-e65c-4138-9175-3e550848cde9.png">
+
+
 Scores by school spending
 * School spending does not change as we have nullified 9th graders from the statistics.
 
