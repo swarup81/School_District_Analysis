@@ -7,6 +7,13 @@ This project aims to analyze Thoma's high school math and reading grades as ther
 # Results:
 How is the district summary affected?
 *  A comparative study between initial and updated analysis shows that the average reading score remained the same. Still, the average math score, percentage of passing math, passing reading, and overall passing percentage decreased by  0.1%, 0.2%, 0.3%,  and 0.1%, respectively.
+
+initial analysis
+<img width="761" alt="Screen Shot 2022-03-25 at 1 35 09 PM" src="https://user-images.githubusercontent.com/100738688/160219156-8a93e866-93ea-41ce-a704-6bf73e6b2b0b.png">
+
+updated analysis
+<img width="1132" alt="Screen Shot 2022-03-25 at 1 27 10 PM" src="https://user-images.githubusercontent.com/100738688/160219175-0f57bb11-03ea-458e-98e6-92f8010c57bf.png">
+
          
 How is the school summary affected?
 * Initial analysis shows that the updated school summary analysis showed that Thomas high school students' math and reading passing percentages were 93.27% and 97.30%, which dropped to 66.91% and 69.66%, respectively.There was a slight difference in the average math and reading scores.
